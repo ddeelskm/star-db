@@ -1,0 +1,15 @@
+.random-planet {
+    display: flex;
+    margin: 10px;
+}
+
+.planet-image {
+    height: 150px;
+    width: 150px;
+}
+.random-planet li{
+    list-style: none;
+}
+.random-planet span{
+    margin-right: 10px;
+}
